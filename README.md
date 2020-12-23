@@ -27,7 +27,9 @@ Reference for methods: __[[Link]](https://www.youtube.com/watch?v=10joRJt39Ns&t=
    - On google colab GPU for 15 hours
    
 ## Results (In short)
-Average loss 0.72
+
+**Average loss: 0.72** <br>
+
 Input: 
 
 <img src="images//sancho.jpeg" width=500 align="center">
