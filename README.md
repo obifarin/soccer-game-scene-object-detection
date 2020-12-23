@@ -32,4 +32,8 @@ Reference for methods: __[[Link]](https://www.youtube.com/watch?v=10joRJt39Ns&t=
 
 Input: 
 
-<img src="images//sancho.jpeg" width=500 align="center">
+<img src="images/sancho.jpeg" width=500 align="center">
+
+Output: 
+
+<img src="images/sancho_detected.png" width=500 align="center">
