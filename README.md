@@ -11,8 +11,8 @@ Objects to be detected:
 - Human face
 
 ## Method and Results (In short)
-Pulled images from Open Images via OIDv4 toolkit
-Collected 300 images and annotations for each class of object
+- Pulled images from Open Images via OIDv4 toolkit
+ - Collected 300 images and annotations for each class of object
 Training in darknet framework
 Configurations for Training
 Batch = 64
