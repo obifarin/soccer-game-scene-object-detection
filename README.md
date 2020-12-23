@@ -30,7 +30,7 @@ Reference for methods: __[[Link]](https://www.youtube.com/watch?v=10joRJt39Ns&t=
 
 ### Average loss: 0.72 <br>
 
-**Test Picture 1: Sancho**
+**Test Picture 1: Sancho** <br>
 Input: 
 
 <img src="images/sancho.jpeg" width=500 align="center">
@@ -39,7 +39,7 @@ Output:
 
 <img src="images/sancho_detected.png" width=500 align="center">
 
-**Test Picture 2: GitHub repo author**
+**Test Picture 2: GitHub repo author** <br>
 Input: 
 
 <img src="images/bif.jpg" width=500 align="center">
