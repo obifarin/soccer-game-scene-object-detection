@@ -28,9 +28,9 @@ Reference for methods: __[[Link]](https://www.youtube.com/watch?v=10joRJt39Ns&t=
    
 ## Results (In short)
 
-**Average loss: 0.72** <br>
+### Average loss: 0.72 <br>
 
-**Sancho**
+**Test Picture 1: Sancho**
 Input: 
 
 <img src="images/sancho.jpeg" width=500 align="center">
@@ -39,7 +39,7 @@ Output:
 
 <img src="images/sancho_detected.png" width=500 align="center">
 
-**GitHub repo author**
+**Test Picture 2: GitHub repo author**
 Input: 
 
 <img src="images/bif.jpg" width=500 align="center">
