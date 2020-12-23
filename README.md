@@ -33,26 +33,26 @@ Reference for methods: __[[Link]](https://www.youtube.com/watch?v=10joRJt39Ns&t=
 **Test Picture 1: Sancho** <br>
 Input: 
 
-<img src="images/sancho.jpeg" width=500 align="center">
+<img src="images/sancho.jpeg" width=700 align="center">
 
 Output: 
 
-<img src="images/sancho_detected.png" width=500 align="center">
+<img src="images/sancho_detected.png" width=700 align="center">
 
 **Test Picture 2: GitHub repo author** <br>
 Input: 
 
-<img src="images/bif.jpg" width=500 align="center">
+<img src="images/bif.jpg" width=700 align="center">
 
 Output: 
 
-<img src="images/bif_detected.png" width=500 align="center">
+<img src="images/bif_detected.png" width=700 align="center">
 
 **Test Picture 3: Lenny + GitHub repo author** <br>
 Input: 
 
-<img src="images/bif3.jpg" width=500 align="center">
+<img src="images/bif3.jpg" width=700 align="center">
 
 Output: 
 
-<img src="images/bif3_detected.png" width=500 align="center">
+<img src="images/bif3_detected.png" width=700 align="center">
