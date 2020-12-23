@@ -11,6 +11,7 @@ Objects to be detected:
 - Human face
 
 ## Method (In short)
+Reference for methods: __[[Paper Link]](https://www.youtube.com/watch?v=10joRJt39Ns&t=1376s)__
 - Pulled images from Open Images via OIDv4 toolkit
    - Collected 300 images and annotations for each class of object
 - Training in darknet framework
