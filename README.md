@@ -12,8 +12,8 @@ Objects to be detected:
 
 ## Method and Results (In short)
 - Pulled images from Open Images via OIDv4 toolkit
- - Collected 300 images and annotations for each class of object
-Training in darknet framework
+   - Collected 300 images and annotations for each class of object
+- Training in darknet framework
 Configurations for Training
 Batch = 64
 Classes = 5
