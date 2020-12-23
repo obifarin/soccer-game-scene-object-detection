@@ -29,4 +29,5 @@ Reference for methods: __[[Link]](https://www.youtube.com/watch?v=10joRJt39Ns&t=
 ## Results (In short)
 Average loss 0.72
 Input: 
+
 <img src="images//sancho.jpeg" width=500 align="center">
