@@ -29,6 +29,7 @@ Reference for methods: __[[Link]](https://www.youtube.com/watch?v=10joRJt39Ns&t=
 ## Results (In short)
 
 ### Average loss: 0.72 <br>
+Note that average loss should be ~0.06, hence the model is not trained sufficiently. 
 
 **Test Picture 1: Sancho** <br>
 Input: 
